@@ -31,3 +31,6 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Using groupby to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
+
+## Process:
+![Alt Tag](https://github.com/PetraLee2019/Python-Sales-Analysis/blob/master/SalesAnalysis/Sales_Data_Analysis.png)
